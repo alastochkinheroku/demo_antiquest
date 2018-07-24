@@ -1,0 +1,1 @@
+..\\bin\\tc32 -i "..\\src\\stdlib" -i "..\\src\\customlib" -i "..\\src" -o antiquest.gam "..\\src\\antiquest.t"
